@@ -1,7 +1,7 @@
 # hi-and-low
 Python game to guess a randomly selected number
 
-#Number Guessing Game Objectives:
+## Number Guessing Game Objectives:
 
 * Include an ASCII art logo.
 * Allow the player to submit a guess for a number between 1 and 100.
